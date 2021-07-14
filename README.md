@@ -25,11 +25,6 @@
       MERN- dependencies(React Native Camera,React Native SVG)
           - Modules(react-native-document-scanner,react-native-image-zoom-viewer,expo-image-picker
           
-          
-       Process
-       1.Converting JPG image to RGB matrix format.
-       2.
-
 
 #### How is our Solution different????
 * Document Tracking- The user on Uploading the Scanned Documents will be able to track the furthur processing (Document Category will be Assigned+Will be Assigned either to a Machine or will be handled by any Executive)
