@@ -7,9 +7,27 @@
  * Grey scales reduction in case of scanned images with grey hue or ink tome issues
  * Document Scanning using device viewfinder
  * Auto-cropping of images
- * Border identification & correction
+ * Border identification(Live) & correction
  * Upload file to Cloud (requires Google Auth)
  * OCR for images with printed text
  * Download Pdfs on Device
  * Camera permission and capabilities detection
  * Fully customizable UI(User can Choose theme According to his/her Convinience)
+ * Flash
+ * Live camera filters (brightness, saturation, contrast)
+ * Easy to use base64 image
+ * Turn upside down images or images in landscape format in the right sense.
+
+
+
+####  Process Flow Diagram
+      TechStack+Modules Used
+
+
+#### How is our Solution different????
+* Document Tracking- The user on Uploading the Scanned Documents will be able to track the furthur processing (Document Category will be Assigned+Will be Assigned either to a Machine or will be handled by any Executive)
+* 
+
+
+
+
