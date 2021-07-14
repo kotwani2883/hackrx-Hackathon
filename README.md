@@ -21,7 +21,14 @@
 
 
 ####  Process Flow Diagram
-      TechStack+Modules Used
+      Tech Stack
+      MERN- dependencies(React Native Camera,React Native SVG)
+          - Modules(react-native-document-scanner,react-native-image-zoom-viewer,expo-image-picker
+          
+          
+       Process
+       1.Converting JPG image to RGB matrix format.
+       2.
 
 
 #### How is our Solution different????
