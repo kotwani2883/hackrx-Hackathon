@@ -23,7 +23,9 @@
 ####  Process Flow Diagram
       Tech Stack
       MERN- dependencies(React Native Camera,React Native SVG)
-          - Modules(react-native-document-scanner,react-native-image-zoom-viewer,expo-image-picker
+          - Modules(react-native-document-scanner,react-native-image-zoom-viewer,expo-image-picker)
+          
+       https://app.diagrams.net/
           
 
 #### How is our Solution different????
