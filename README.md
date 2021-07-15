@@ -10,7 +10,7 @@
  * Border identification(Live) & correction
  * Upload file to Cloud (requires Google Auth)
  * Download the scanned file in the local storage
- * Can generate a QR code for the document, so that whoever scans it, can have the document.
+ * Can generate a QR code for the document, so that whoever scans it, can have the document. (react-native-qrcode-generator)
  * OCR for images with printed text
  * Download Pdfs on Device
  * Camera permission and capabilities detection
@@ -19,6 +19,8 @@
  * Live camera filters (brightness, saturation, contrast)
  * Easy to use base64 image
  * Turn upside down images or images in landscape format in the right sense.
+ * support password protected pdf (react-native-pdf)
+ * jump to a specific page in the pdf (react-native-pdf)
 
 
 
