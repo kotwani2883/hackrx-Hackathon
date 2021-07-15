@@ -33,6 +33,7 @@
           
 
 #### How is our Solution different????
+* When uploading malicious file in this time need scanning and remove that file-For this we will be allowing only specific extensions and limitations of size.In the backend we will be using the Multer package.
 * Document Tracking- The user on Uploading the Scanned Documents will be able to track the furthur processing (Document Category will be Assigned+Will be Assigned either to a Machine or will be handled by any Executive)
 * Handling Metadata-From the Scanned documents,We can extract the metadata and store this image data along with the metadata in a storage backend or serverless cloud(Most probably we will be using AWS) So no manual handling is required, The data from the image is directly into the predefined entries
 * Specifically the insurance, banking and medical services deals with a huge amount of unstructured scanned documents which just behave as a spam directory.In any part of policy life the scanned documents such as KYC, Bank statements , important letters can be needed this becomes a very tedious job to verify and authenticate a doc from the very huge folder. 
